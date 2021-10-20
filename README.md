@@ -16,4 +16,4 @@ or run
 ```python
 python KaymmoHangman.py
 ```
-from your commnad line
+from your command line
